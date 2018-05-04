@@ -1,3 +1,6 @@
+这玩意是我之前改的别人的模块，所谓status就是一个状态，改变内存的状态，就可以改变宕机的装，具体怎么传参看代码吧还是，我有点忘了，^_^。
+
+
 Name
     nginx_http_upstream_check_module - support upstream health check with
     Nginx
