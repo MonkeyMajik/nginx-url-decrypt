@@ -1,19 +1,19 @@
-NginxÅäÖÃ£º
+Nginxé…ç½®ï¼š
 Location /{
-des_key   xxxxxxxx£»		
+des_key   xxxxxxxxï¼›		
 }
-Ä£¿é°²×°£º
-	./configure --prefix=°²×°Â·¾¶ --add-module=/Ä£¿é´æ·ÅÂ·¾¶/
-confÎÄ¼şÒªºÍ.c·ÅÔÚÒ»Æğ¡£
+æ¨¡å—å®‰è£…ï¼š
+	./configure --prefix=å®‰è£…è·¯å¾„ --add-module=/æ¨¡å—å­˜æ”¾è·¯å¾„/
+confæ–‡ä»¶è¦å’Œ.cæ”¾åœ¨ä¸€èµ·ã€‚
 
 
 
 
 
 
-ÔÚ±£Ö¤vod.cdeledu.com/zhushui/jichu/ssfl/video/ssfl0001.mp4ÎÄ¼şÅäÖÃºÃºó²âÊÔ£º
-¼ÓÃÜÇ°µØÖ·£º
-http://vod.cdeledu.com/m2014/zhushui/jichu/ssfl/video/ssfl0001.mp4?e=1439544795&st=PpKX48MtcITfOvhBlH7Y7A&sid= 
+åœ¨ä¿è¯vod.xxxx.com/xxx/jichu/ssfl/video/ssfl0001.mp4æ–‡ä»¶é…ç½®å¥½åæµ‹è¯•ï¼š
+åŠ å¯†å‰åœ°å€ï¼š
+http://vod.xxx.com/xxx/xxx/jichu/ssfl/video/ssfl0001.mp4?e=1439544795&st=PpKX48MtcITfOvhBlH7Y7A&sid= 
 
-¼ÓÃÜºóµØÖ·£º 
-http://vod.cdeledu.com/9XE677nnRRHSi6nz0wahlvrzVNPpkLuR5PGlnov6RPC0V9Dg2JKwPzJdz96ExCV9?e=1440560672&st=CRzX8VPgh4Odm8KFtKxSwg&sid= 
+åŠ å¯†ååœ°å€ï¼š 
+http://vod.xxx.com/9XE677nnRRHSi6nz0wahlvrzVNPpkLuR5PGlnov6RPC0V9Dg2JKwPzJdz96ExCV9?e=1440560672&st=CRzX8VPgh4Odm8KFtKxSwg&sid= 
